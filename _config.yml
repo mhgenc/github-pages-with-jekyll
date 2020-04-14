@@ -2,6 +2,7 @@ title: Let's Coding
 author: mhgenc
 email: ce.mehmetgenc@gmail.com
 description: Hadi başlayalım
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
